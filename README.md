@@ -142,6 +142,7 @@ df.to_csv('cleaned_cafe_sales.csv', index=False)
 print("Cleaned dataset saved as 'cleaned_cafe_sales.csv'")
 ```
 
+## Conclusion
 
 The Dirty Cafe Sales Dataset provides a valuable opportunity for data analysts to engage with realistic data challenges that mirror real-world scenarios. Through essential skills such as data cleaning, exploratory data analysis, and predictive modeling, analysts can derive meaningful insights and improve their proficiency in handling complex datasets.
 
